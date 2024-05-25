@@ -1,5 +1,4 @@
 # Image-Recognition-as-Service
-
 INPUT_BUCKET_NAME = "worker-input"
 OUTPUT_BUCKET_NAME = "worker-output"
 REGION_NAME = "us-east-1"
